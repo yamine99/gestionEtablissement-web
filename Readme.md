@@ -1,4 +1,5 @@
-* Etablissement Scolaire
+* Etablissement Scolaire web
+
   * prérequis
     * Avoir java avec le jdk et jre 11 
     *  Avoir maven d'installé
